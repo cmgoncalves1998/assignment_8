@@ -56,6 +56,7 @@ jobs:
          ignore-unfixed: true
          severity: 'CRITICAL,HIGH'
          
+         
 
  deploy:
    needs: security
